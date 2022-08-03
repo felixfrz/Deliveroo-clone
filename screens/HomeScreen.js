@@ -58,6 +58,7 @@ export default function HomeScreen() {
       </View>
 
       {/* Scroll View */}
+      {/* Scroll View */}
 
       <ScrollView
         className='bg-gray-100'
